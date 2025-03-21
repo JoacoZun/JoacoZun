@@ -1,7 +1,7 @@
 # 👋 Hola, soy Joaquín Zúñiga  
 
 🚀 Full Stack Developer | 📍 Santiago, Chile  
-💻 Me apasiona el desarrollo web y la ingeniería metalúrgica.  
+💻 Construyo códigos como Fullstack y moldeo metales como metalúrgico con la misma dedicación :). 
 
 ### 📊 Estadísticas de GitHub  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=joacozun&show_icons=true&theme=radical)  
